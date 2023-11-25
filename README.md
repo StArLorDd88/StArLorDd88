@@ -5,8 +5,7 @@ Hello, I'm Himanshu. Data Analyst with expertise in data analysis and reporting,
    + Developing dashboards on PowerBI.
    + Data analysis and reporting using Google Sheets and Excel.
 
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+📚 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
    + Language: SQL, Python
