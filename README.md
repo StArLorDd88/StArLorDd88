@@ -1,5 +1,5 @@
 Hello, I'm Himanshu. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
-```
+
    + Querying data using SQL.
    + Generate reports and perform data analysis using SQL.
    + Developing dashboards on PowerBI.
@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase my projects.
    + Language: SQL, Python
    + Database: PostgreSQL, MySQL
    + Visualization: PowerBI
-```
+
 
 <!--
 **StArLorDd88/StArLorDd88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
