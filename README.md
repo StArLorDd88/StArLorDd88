@@ -10,7 +10,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
   •	Language: SQL, Python
+  
   •	Database: PostgreSQL, MySQL
+  
   •	Visualization: PowerBI
 
 
